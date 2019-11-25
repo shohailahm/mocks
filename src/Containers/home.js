@@ -38,13 +38,9 @@ export default class Home extends React.Component{
             <div style={{height:60}}>
                 
             </div>
-             <Router>
-                <Switch>
-                    <Route exact path="/">
+         
                        <TabsComponent/>
-                    </Route>
-                </Switch>
-             </Router>
+                   
             </Layout>
           </Layout>
         
