@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mocks/static/css/main.866afdba.chunk.css",
-    "main.js": "/mocks/static/js/main.d10f37d6.chunk.js",
-    "main.js.map": "/mocks/static/js/main.d10f37d6.chunk.js.map",
+    "main.js": "/mocks/static/js/main.67338f44.chunk.js",
+    "main.js.map": "/mocks/static/js/main.67338f44.chunk.js.map",
     "runtime-main.js": "/mocks/static/js/runtime-main.4237a8ab.js",
     "runtime-main.js.map": "/mocks/static/js/runtime-main.4237a8ab.js.map",
     "static/css/2.cbb01bb0.chunk.css": "/mocks/static/css/2.cbb01bb0.chunk.css",
     "static/js/2.17bfb0e5.chunk.js": "/mocks/static/js/2.17bfb0e5.chunk.js",
     "static/js/2.17bfb0e5.chunk.js.map": "/mocks/static/js/2.17bfb0e5.chunk.js.map",
     "index.html": "/mocks/index.html",
-    "precache-manifest.6e929bc40247280fb3201effde8ce12f.js": "/mocks/precache-manifest.6e929bc40247280fb3201effde8ce12f.js",
+    "precache-manifest.711ad6b7dadd8862c858d75471d57094.js": "/mocks/precache-manifest.711ad6b7dadd8862c858d75471d57094.js",
     "service-worker.js": "/mocks/service-worker.js",
     "static/css/2.cbb01bb0.chunk.css.map": "/mocks/static/css/2.cbb01bb0.chunk.css.map",
     "static/css/main.866afdba.chunk.css.map": "/mocks/static/css/main.866afdba.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.cbb01bb0.chunk.css",
     "static/js/2.17bfb0e5.chunk.js",
     "static/css/main.866afdba.chunk.css",
-    "static/js/main.d10f37d6.chunk.js"
+    "static/js/main.67338f44.chunk.js"
   ]
 }
