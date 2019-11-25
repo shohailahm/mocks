@@ -48,7 +48,7 @@ export default class TabsComponent extends React.Component{
                     <TabPane tab="My Issuances" key="3">
                       <TableComponent showover={this.showOverlay} columns={columnsData} showFav={true} data={this.state.dataTable}/>
                     </TabPane>
-                    <TabPane tab="MNDA Managament" key="3">
+                    <TabPane tab="MNDA Managament" key="4">
                     </TabPane>
                 </Tabs>
             </Content>
