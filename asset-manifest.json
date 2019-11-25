@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mocks/static/css/main.866afdba.chunk.css",
-    "main.js": "/mocks/static/js/main.40622315.chunk.js",
-    "main.js.map": "/mocks/static/js/main.40622315.chunk.js.map",
+    "main.js": "/mocks/static/js/main.d10f37d6.chunk.js",
+    "main.js.map": "/mocks/static/js/main.d10f37d6.chunk.js.map",
     "runtime-main.js": "/mocks/static/js/runtime-main.4237a8ab.js",
     "runtime-main.js.map": "/mocks/static/js/runtime-main.4237a8ab.js.map",
     "static/css/2.cbb01bb0.chunk.css": "/mocks/static/css/2.cbb01bb0.chunk.css",
-    "static/js/2.2f333875.chunk.js": "/mocks/static/js/2.2f333875.chunk.js",
-    "static/js/2.2f333875.chunk.js.map": "/mocks/static/js/2.2f333875.chunk.js.map",
+    "static/js/2.17bfb0e5.chunk.js": "/mocks/static/js/2.17bfb0e5.chunk.js",
+    "static/js/2.17bfb0e5.chunk.js.map": "/mocks/static/js/2.17bfb0e5.chunk.js.map",
     "index.html": "/mocks/index.html",
-    "precache-manifest.f0f20bdfca745e21bc411cb6651a5fe5.js": "/mocks/precache-manifest.f0f20bdfca745e21bc411cb6651a5fe5.js",
+    "precache-manifest.6e929bc40247280fb3201effde8ce12f.js": "/mocks/precache-manifest.6e929bc40247280fb3201effde8ce12f.js",
     "service-worker.js": "/mocks/service-worker.js",
     "static/css/2.cbb01bb0.chunk.css.map": "/mocks/static/css/2.cbb01bb0.chunk.css.map",
     "static/css/main.866afdba.chunk.css.map": "/mocks/static/css/main.866afdba.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.4237a8ab.js",
     "static/css/2.cbb01bb0.chunk.css",
-    "static/js/2.2f333875.chunk.js",
+    "static/js/2.17bfb0e5.chunk.js",
     "static/css/main.866afdba.chunk.css",
-    "static/js/main.40622315.chunk.js"
+    "static/js/main.d10f37d6.chunk.js"
   ]
 }
